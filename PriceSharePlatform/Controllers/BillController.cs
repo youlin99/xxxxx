@@ -29,6 +29,8 @@ namespace PriceSharePlatform.Controllers
         // POST: api/Bill
         public void Post([FromBody]string value)
         {
+            int i = 0;
+            ++i;
         }
 
         // PUT: api/Bill/5
